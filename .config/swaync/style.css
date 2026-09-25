@@ -1,0 +1,9 @@
+@import "../theme/colors.css";
+* { font-family: "JetBrainsMono Nerd Font"; font-size: 13px; }
+window, .control-center, .control-center-list { background: @base; }
+window { border: 1px solid @surface1; }
+.notification { background: @base; padding: 10px; }
+.summary { color: @text; font-weight: bold; }
+.body { color: @subtext; }
+.notification-default-action, .notification-action { background: @surface0; color: @text; }
+.close-button { background: @error; color: @on_primary; }

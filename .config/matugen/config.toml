@@ -1,3 +1,8 @@
+[config.wallpaper]
+set = true
+command = "awww"
+arguments = ["img", "--resize", "fit"]
+
 [templates.theme]
 input_path = "~/.config/matugen/templates/colors.css"
 output_path = "~/.config/theme/colors.css"

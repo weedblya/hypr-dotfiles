@@ -2,7 +2,7 @@
 
 Default slots:
 - mountain-pixel.jpg
-- cogech.jpg
+- cogecha.jpg
 - miku.jpg
 - tomokokuroki.jpg
 

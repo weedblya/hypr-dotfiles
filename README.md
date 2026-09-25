@@ -186,8 +186,7 @@ You do **not** need to install systemd specifically for these dotfiles. Gentoo w
 | `Super + Arrow keys` | Focus window |
 | `Super + 1..0` | Switch workspace |
 | `Super + Shift + 1..0` | Move window to workspace |
-| `Print` | Full screenshot |
-| `Shift + Print` | Area screenshot |
+| `Super + Shift + S` | Area screenshot |
 
 ## Wallpaper theming
 

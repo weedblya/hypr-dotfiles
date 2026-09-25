@@ -29,5 +29,3 @@ hl.bind("SUPER + mouse:273", hl.dsp.window.resize(), { mouse = true })
 
 hl.bind("Print", hl.dsp.exec_cmd("~/.config/hypr/scripts/screenshot-full.sh"))
 hl.bind("SHIFT + Print", hl.dsp.exec_cmd("~/.config/hypr/scripts/screenshot-area.sh"))
-hl.bind("SUPER + Print", hl.dsp.exec_cmd("~/.config/hypr/scripts/record-full.sh"))
-hl.bind("SUPER + SHIFT + Print", hl.dsp.exec_cmd("~/.config/hypr/scripts/record-area.sh"))

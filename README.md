@@ -53,7 +53,7 @@ chmod +x install-arch.sh
 The installer:
 
 1. Installs the main packages with `pacman`.
-2. Installs `awww` and `matugen` from the AUR using `yay` or `paru`.
+2. Installs `awww`, `matugen` and `zen-browser-bin` from the AUR using `yay` or `paru`.
 3. Backs up an existing `~/.config/hypr`.
 4. Copies the repository configuration into `~/.config`.
 5. Makes the included shell scripts executable.

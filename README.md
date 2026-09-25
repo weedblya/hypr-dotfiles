@@ -175,11 +175,11 @@ You do **not** need to install systemd specifically for these dotfiles. Gentoo w
 | `Super + Q` | Close window |
 | `Super + L` | Lock screen |
 | `Super + Space` | App launcher |
-| `Super + B` | Browser |
+| `Super + W` | Browser |
 | `Super + E` | File manager |
 | `Super + Shift + E` | Yazi |
-| `Super + V` | Toggle floating |
-| `Super + W` | Wallpaper selector |
+| `Super + Z` | Toggle floating |
+| `Super + X` | Wallpaper selector |
 | `Super + F` | Fullscreen |
 | `Super + P` | Pseudo-tile |
 | `Super + J` | Toggle split |
@@ -201,7 +201,7 @@ When Matugen is installed, selecting a wallpaper regenerates the theme for:
 The wallpaper selector is bound to:
 
 ```text
-Super + W
+Super + X
 ```
 
 ## Repository layout

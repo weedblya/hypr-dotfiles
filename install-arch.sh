@@ -17,9 +17,9 @@ PACKAGES=(
 sudo pacman -Syu --needed "${PACKAGES[@]}"
 
 if command -v yay >/dev/null 2>&1; then
-    yay -S --needed awww matugen
+    yay -S --needed awww matugen zen-browser-bin
 elif command -v paru >/dev/null 2>&1; then
-    paru -S --needed awww matugen
+    paru -S --needed awww matugen zen-browser-bin
 else
     echo "Install yay or paru, then run: yay -S --needed awww matugen"
     exit 1
